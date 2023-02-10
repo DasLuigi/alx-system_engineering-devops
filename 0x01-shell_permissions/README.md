@@ -6,4 +6,5 @@
 5.script that adds execute permission to the owner of the file hello.
 6.scipt for multiple permissions.
 7.script that adds execution permission to everybody.
-8.script that sets the permission to the file hello as follows
+8.script that sets the permission to the file hello as follows.
+9.script that sets the mode of the file hello.
