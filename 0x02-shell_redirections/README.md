@@ -4,3 +4,4 @@ Task 2.Let's display a file-display the content of the /etc/passwd file.
 Task 3.What about 2?-display the content of /etc/passwd and /etc/hosts.
 Task 4.Last lines of a file-display the last 10 lines of /etc/passwd.
 Task 4.Display the first 10 lines of /etc/passwd.
+Task 5.A script that displays the third line of the file iacta.
