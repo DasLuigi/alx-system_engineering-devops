@@ -6,4 +6,5 @@ Task 4.Last lines of a file-display the last 10 lines of /etc/passwd.
 Task 5.Display the first 10 lines of /etc/passwd.
 Task 6.A script that displays the third line of the file iacta.
 Task 7.A script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
-Task 8.A script that writes into the file ls_cwd_content the result of the command ls -la
+Task 8.A script that writes into the file ls_cwd_content the result of the command ls -la.
+Task 9.A script that duplicates the last line of the file iacta.
